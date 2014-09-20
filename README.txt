@@ -1,0 +1,5 @@
+Electronics project for this Halloween. Two goals for this project, (1) animate a mask using some servos, and (2) place it in a jar to create the illusion of it being submerged in the jar.
+
+For this project I first set out to develop an animated head and to manipulate it using the Arduino. In order to do this, I created simple frame and covered it up with a Halloween mask. Once this was done, I set out to develop the jar in which the head would be "submerged".
+
+Since submerging the head in actual water was out of the question from the start I set out to create a jar compose of two cylinders, and inner cylinder and an outer cylinder. The inner cylinder would contain the head and the separation between the inner and outer cylinder would be filled with water and other decorative accents. This separation in combination to the water and decorative accents would create the illusion of the head actually being submerged when it actually was not.
